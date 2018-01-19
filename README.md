@@ -1,6 +1,6 @@
 # MiniLibC
 
-Recoding libc functions in x86-64 Assembly.
+A shared library that contains libc functions recoded in x86-64 Assembly.
 
 ## Requirements
 
